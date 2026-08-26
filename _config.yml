@@ -1,0 +1,7 @@
+title: Luupy2D
+description: Acompanhe o desenvolvimento do nosso projeto pelo blog.
+theme: minima
+
+header_pages:
+  - index.md
+  - blog.md
