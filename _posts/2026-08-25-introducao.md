@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introdução: Bem vindo ao Blog."
+title: "Introdução: Bem vindo ao Blog"
 date: 2026-08-25
 ---
 
