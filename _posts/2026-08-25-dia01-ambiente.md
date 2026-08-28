@@ -20,9 +20,9 @@ A equipe de desenvolvimento do pygame se dividiu e duas versões são mantidas n
 O Visual Studio é a IDE que estarei utilizando pois já o tinha instalado no meu notebook. Apesar do VSCode ser mais que suficiente, acho que é uma ótima oportunidade para se familiarizar com esta ferramenta. Foi bem tranquilo também instalar o suporte para Python. Sendo assim, abro um novo projeto para finalmente testar o pygame. Nesta página: https://pyga.me/docs/ temos dois exemplos de código que geram uma tela básica pintada com um fundo roxo. Escolhendo o segundo exemplo, crio o arquivo pygametest.py, copio o código e executo... vejamos o resultado:
 
 <p align="center">
-  <img src="{{ 'images/pygametest.png' | relative_url }}" alt="Print de tela mostrando execução do código exemplo do pygame no Visual Studio" width="600">
-  O print é de um segundo momento após leves modificações, então não está exatamente igual ao exemplo do site, mas a ideia é a mesma. Um círculo que se movimenta usando as teclas WASD do teclado.
+  <img src="{{ 'images/pygametest.png' | relative_url }}" alt="Print de tela mostrando execução do código exemplo do pygame no Visual Studio" width="600">  
 </p>
+<p align="center">O print é de um segundo momento após leves modificações, então não está exatamente igual ao exemplo do site, mas a ideia é a mesma. Um círculo que se movimenta usando as teclas WASD do teclado.</p>
 
 
 Em um primeiro momento, é isso! Algumas outras coisas que descobri:\
