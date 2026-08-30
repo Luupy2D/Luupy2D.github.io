@@ -2,6 +2,10 @@
 layout: post
 title: "Dia 01: Preparando o ambiente para testar o pygame"
 date: 2026-08-25
+tags:
+  - pygame
+categories:
+  - Projeto
 ---
 
 O primeiro passo antes de tudo foi a instalação do *Python*. De acordo com o [site oficial do *Python*](https://python.org) a forma mais tranquila de seguir a instalação no *Windows* é baixando um manager através da loja da *Microsoft*. Feito isso instalo a versão mais recente 3.14. O site recomenda também a utilização de *venvs* para organizar as dependências de módulos, o que provalvemente será objeto de um futuro post no blog.
