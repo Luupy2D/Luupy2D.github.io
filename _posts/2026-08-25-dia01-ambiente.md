@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dia 01: Preparando o ambiente para testar o pygame"
-date: 2026-08-25
+date: 2026-08-25T18:00:00.000Z
 tags:
   - pygame
 categories:
@@ -31,10 +31,16 @@ pip install pygame-ce
 
 Sendo assim, abro um novo projeto para finalmente testar o *pygame*. [Na página oficial do *pygame-ce*](https://pyga.me/docs/) temos dois exemplos de código que geram uma tela básica pintada com um fundo roxo. Escolhendo o segundo exemplo, crio o arquivo *pygametest.py*, copio o código e executo... vejamos o resultado:
 
-<p align="center">
+<!---<p align="center">
   <img src="{{ 'assets/images/pygametest.png' | relative_url }}" alt="Print de tela mostrando execução do código exemplo do pygame no Visual Studio" width="600">  
 </p>
-<p align="center"><i>O print é de um segundo momento após leves modificações, então não está exatamente igual ao exemplo do site, mas a ideia é a mesma. Um círculo que se movimenta usando as teclas WASD do teclado.</i></p>
+<p align="center"><i>O print é de um segundo momento após leves modificações, então não está exatamente igual ao exemplo do site, mas a ideia é a mesma. Um círculo que se movimenta usando as teclas WASD do teclado.</i></p>--->
+
+<figure style="text-align: center;">
+  <img src="{{ 'assets/images/pygametest.png' | relative_url }}" alt="Print de tela mostrando execução do código exemplo do pygame no Visual Studio" width="600">
+  <figcaption>O print é de um segundo momento após leves modificações, então não está exatamente igual ao exemplo do site, mas a ideia é a mesma. Um círculo que se movimenta usando as teclas WASD do teclado.
+  </figcaption>
+</figure>
 
 
 Em um primeiro momento, é isso! Algumas outras coisas que descobri:
